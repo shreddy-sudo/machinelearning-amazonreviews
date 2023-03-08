@@ -83,31 +83,52 @@ Moreover, it was found that using all data, including text and style data, resul
 To summarize, this report discusses the utilization of the Amazon reviews dataset to predict the overall rating of a review. The report emphasizes the importance of data preprocessing, hyperparameter tuning, and model selection in achieving the desired results. Analyzing stop words, specifically the extraction of the second bucket mentioned in the report, significantly improved the model scores. The summarized results show that the LinearSVC model outperformed the other models for classification results in f1 scores, although the MultinomialNB and Logistic Regression models also demonstrated strong performance. Regarding clustering, Silhouette and Rand Index scores were utilized to evaluate the effectiveness of the clustering.  It is observed that the inclusion of text data in the clustering model has a significant impact on the number of clusters needed to achieve higher Silhouette scores. When text data is not included in the model, a larger number of clusters is required to achieve better Silhouette scores.
 
 # Files
-Util
+
+**Util**
+
 Stop words tuning file: Final_3_0_UTIL_COSC_74_274_Winter23_ShyamReddy.ipynb
 
-Part 1 (Binary classificaiton)
+
+**Part 1 (Binary classificaiton)**
+
 Hyper parameter tuning: Final_3_1_HP_COSC_74_274_Winter23_ShyamReddy.ipynb
+
 Prediction: Final_3_1_PR_COSC_74_274_Winter23_ShyamReddy.ipynb
 
-Part 2 (Binary classificaiton)
+
+**Part 2 (Binary classificaiton)**
+
 Hyper parameter tuning: Final_3_2_HP_COSC_74_274_Winter23_ShyamReddy.ipynb
+
 Prediction: Final_3_2_PR_COSC_74_274_Winter23_ShyamReddy.ipynb
 
-Part 3 (Binary classificaiton)
+
+**Part 3 (Binary classificaiton)**
+
 Hyper parameter tuning: Final_3_3_HP_COSC_74_274_Winter23_ShyamReddy.ipynb
+
 Prediction: Final_3_3_PR_COSC_74_274_Winter23_ShyamReddy.ipynb
 
-Part 4 (Binary classificaiton)
+
+**Part 4 (Binary classificaiton)**
+
 Hyper parameter tuning: Final_3_4_HP_COSC_74_274_Winter23_ShyamReddy.ipynb
+
 Prediction: Final_3_4_PR_COSC_74_274_Winter23_ShyamReddy.ipynb
 
-Part 5 (Multi-classificaiton)
+
+**Part 5 (Multi-classificaiton)**
+
 Hyper parameter tuning: Final_3_5_HP_COSC_74_274_Winter23_ShyamReddy.ipynb
+
 Prediction: Final_3_5_PR_COSC_74_274_Winter23_ShyamReddy.ipynb
 
-Clustering
+
+**Clustering**
+
 Cluserting file: Final_3_6_HP_COSC_74_274_Winter23_ShyamReddy.ipynb
 
-Report
+
+**Report**
+
 Final_Project_Report_COSC_274_Shyam_Manneti.pdf
