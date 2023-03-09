@@ -132,3 +132,8 @@ Cluserting file: Final_3_6_HP_COSC_74_274_Winter23_ShyamReddy.ipynb
 **Report**
 
 Final_Project_Report_COSC_274_Shyam_Manneti.pdf
+
+
+
+# Helpful github repo
+https://github.com/jermwatt/machine_learning_refined
